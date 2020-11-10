@@ -7,3 +7,5 @@ This is a java console Application where you can book Appointments to a doctor b
 - Patient booking
 - Checking avalability of Doctors and Booking based on that time
 - Display Booking History of that day
+
+[Problem Description PDF is added along with the solution]
